@@ -79,4 +79,4 @@ print("Covariance Coefficient of Corelation:\t",Covariance_coeff.round(4))
 
 
 # Results 
-
+Thus, the program to Finding Marginal distributions is implemented.
